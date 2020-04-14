@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/ObjectOrientedEthics.pdf)
+### [The Data You Actually Care About](/pdf/ObjectOrientedEthics.pdf)
 
 -   **Class:Object Oriented Programming**  
 -   **Grade:90**
