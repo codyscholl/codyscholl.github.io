@@ -34,33 +34,33 @@ Ethics Papers
 ### [The Data You Actually Care About](/pdf/ObjectOrientedEthics.pdf)
 
 -   **Class:Object Oriented Programming**  
--   **Grade:90**
+-   **Grade:A**
 
 ### [Privacy](/pdf/PrivacyEthics.pdf)
 
 -   **Class:Procedural Programming** 
--   **Grade:80**
+-   **Grade:B**
 
 ### [Ethics of Computer Science](/pdf/ScriptingEthics.pdf)
 
 -   **Class:Scripting Languages** 
--   **Grade:97**
+-   **Grade:A**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Subway Breach](/pdf/ScriptingPresentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:Scripting Languages** 
+- **Grade:A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Ripple-Carry Adder](/pdf/CompArchPresentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:Computer Architecture** 
+- **Grade:A**
 
 ---
 
