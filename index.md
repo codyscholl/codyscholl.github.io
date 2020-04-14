@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Adder | CSCI 330](project1)
+### [Adder | CSCI 330](https://github.com/codyscholl/PortfolioProject1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
