@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [64BitEquals | CSCI 330](https://github.com/codyscholl/PortfolioProject2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/pnggrad16rgb.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
