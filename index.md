@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/ANTFlCX.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [64BitEquals | CSCI 330](https://github.com/codyscholl/PortfolioProject2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
