@@ -17,7 +17,7 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/pnggrad16rgb.png)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Priority Queue | CSCI 315](https://github.com/codyscholl/PortfolioProject3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
