@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Adder | CSCI 330](https://github.com/codyscholl/PortfolioProject1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/ANTFlCX.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
