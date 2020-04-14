@@ -14,17 +14,17 @@ Programming Projects
 ---
 ### [64BitEquals | CSCI 330](https://github.com/codyscholl/PortfolioProject2)
 
-![Project 2 Thumbnail Name](images/pnggrad16rgb.png)
+![Project 2 Thumbnail Name](images/Screenshot4)
 
 ---
 ### [Priority Queue | CSCI 315](https://github.com/codyscholl/PortfolioProject3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Screenshot1.jpg)
 
 ---
 ### [Lab2 | CSCI 325](https://github.com/codyscholl/PortfolioProject4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/Screenshot3.jpg)
 
 ---
 
