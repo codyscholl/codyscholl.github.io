@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Title](/pdf/ObjectOrientedEthics.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:Object Oriented Programming**  
+-   **Grade:90**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
