@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class:Procedural Programming** 
 -   **Grade:80**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Computer Science](/pdf/ScriptingEthics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:Scripting Languages** 
+-   **Grade:97**
 
 ---
 
