@@ -36,10 +36,10 @@ Ethics Papers
 -   **Class:Object Oriented Programming**  
 -   **Grade:90**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Privacy](/pdf/PrivacyEthics.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:Procedural Programming** 
+-   **Grade:80**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
