@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Lab2 | CSCI 325](https://github.com/codyscholl/PortfolioProject3)
+### [Lab2 | CSCI 325](https://github.com/codyscholl/PortfolioProject4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
